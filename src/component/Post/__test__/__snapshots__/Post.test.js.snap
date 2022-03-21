@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render Post correctly 1`] = `
+<div
+  class="tupple"
+  data-testid="post"
+>
+  <div
+    class="post-by"
+  >
+    <h5>
+      <a
+        href="/user/1"
+      >
+        <span
+          class="text-white"
+        >
+          Venkatesh
+        </span>
+      </a>
+    </h5>
+  </div>
+  <a
+    class="link"
+    href="/post/1"
+  >
+    <div
+      class="post-title"
+    >
+      <p>
+        <span
+          class="text-white"
+        >
+          React coding
+        </span>
+      </p>
+    </div>
+  </a>
+</div>
+`;
