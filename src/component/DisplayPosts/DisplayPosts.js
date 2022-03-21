@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import Post from "../Post";
 import { DataContext } from "./../../context/dataContext";
 // import ListGroup from "react-bootstrap/ListGroup";
-import './DisplayPosts.css';
+// import './DisplayPosts.css';
 
 const DisplayPosts = () => {
   const context = useContext(DataContext);

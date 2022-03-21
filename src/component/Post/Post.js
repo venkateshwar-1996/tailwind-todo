@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 
-import "./Post.css";
+// import "./Post.css";
 const Post = ({ userId, userName, id, title }) => {
   return (
     <div data-testid={"post"} className="bg-slate-500 mt-1" >

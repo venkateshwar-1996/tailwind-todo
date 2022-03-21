@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import './PostDetails.css';
+// import './PostDetails.css';
 
 const Comments = ({ comments }) => {
   const commentsList = (comments || []).map((comment) => {

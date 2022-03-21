@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useContext } from "react";
 import PropTypes from "prop-types";
 import { fetchComments } from "./../../helpers/fetchDetails";
-import "./PostPage.css";
+// import "./PostPage.css";
 import PostDetails from "../../component/PostDetails";
 import { DataContext } from "./../../context/dataContext";
 import { useParams } from 'react-router-dom'
